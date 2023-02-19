@@ -1,5 +1,5 @@
 # discord-token-onlinerr
-Discord tokenlerinizi sese sokmak için yapmılmış alt yapı luhux#1000
+```Discord tokenlerinizi sese sokmak için yapmılmış alt yapı luhux#1000```
 
 # Kurulum
 * Tokenleri Ve Ses Kanallarını Girin
