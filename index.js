@@ -24,7 +24,7 @@ let random = [
 
             luhuxaskim++
             let randomize = random[Math.floor(Math.random() * random.length)];
-            const channel = client.channels.get('SES KANALI')
+            const channel = client.channels.get('YAZI KANALI')
             if(!channel) return;
             await wait(luhuxaskim * 3000)
             await channel.send(randomize).catch(err => {})
